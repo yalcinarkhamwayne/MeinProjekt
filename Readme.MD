@@ -43,6 +43,9 @@ AFTER:
 
 ![alt text](assets/after.png)
 
+Merge und Push
+
+![alt text](assets/mergeandpush.png.png)
 
 
 - Verwende Screenshots oder Code-Blöcke, um deine Erklärungen zu verdeutlichen.
